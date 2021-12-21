@@ -11,6 +11,9 @@ Simple download the repo and then instal dependencies.
 ## Usage
 Simply use the deployed link. If you wish to clone the repo after the dependencies are installed run "npm start" and navigate to the local host.
 
+## Image
+![Image](https://raw.githubusercontent.com/RayceWheat/pwa-budget-tracker/main/public/images/pwa%20budget%20tracker.jpg)
+
 ## Link
 The deployed app at [Heroku](https://heroku.com) by clicking the link below:<br>
 [pwa-budget-tracker](https://mysterious-waters-80782.herokuapp.com/ )
